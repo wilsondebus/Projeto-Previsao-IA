@@ -89,4 +89,4 @@ Construção de um pipeline completo de análise e previsão de dados
 
 Wilson Dias Debus
 
-Estudante de Ciência da ComputaçãoUniversidade Franciscana – Santa Maria/RS
+Estudante de Ciência da Computação Universidade Franciscana – Santa Maria/RS
